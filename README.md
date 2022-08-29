@@ -62,6 +62,8 @@ Now I am working as a partime Software Engineering and VR/AR developer at VAR ME
   <img alt="Webstorm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img alt="Intellij" src="https://img.shields.io/badge/intellij-098759.svg?style=for-the-badge&logo=intellij&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-FFBF00?style=for-the-badge&logo=postman&logoColor=red" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%FFFFFF.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
 </div>
