@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Nguyen The Nhat, 22 years old <br />
 
-Currently I'm a Senior at Ha Noi University of Science and Technology, major in Computer Engineering. <br />
+Currently I'm a senior student at Ha Noi University of Science and Technology, major in Computer Engineering. <br />
 I come from a small village in Ha Tinh province (nearly Nga Ba Dong Loc) <br/>
 
 Now I am working as a partime Software Engineering at VAR META.
