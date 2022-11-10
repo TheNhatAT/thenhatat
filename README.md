@@ -21,7 +21,7 @@ My name is Nguyen The Nhat, 22 years old <br />
 Currently I'm a Senior at Ha Noi University of Science and Technology, major in Computer Engineering. <br />
 I come from a small village in Ha Tinh province (nearly Nga Ba Dong Loc) <br/>
 
-Now I am working as a partime Software Engineering and VR/AR developer at VAR META.
+Now I am working as a partime Software Engineering at VAR META.
 
 # Skills
 💪 The order from left to right show the my confidence at that skill from highest to lowest 💪
