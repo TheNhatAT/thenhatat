@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # About me
 
-My name is Nguyen The Nhat, 22 years old <br />
+My name is Nguyen The Nhat, 21 years old <br />
 
 Currently I'm a senior student at Ha Noi University of Science and Technology, major in Computer Engineering. <br />
 I come from a small village in Ha Tinh province (nearly Nga Ba Dong Loc) <br/>
