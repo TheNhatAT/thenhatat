@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 # About me
 
-My name is Nguyen The Nhat, 21 years old <br />
+My name is Nguyen The Nhat, 22 years old <br />
 
 Currently I'm a senior student at Ha Noi University of Science and Technology, major in Computer Engineering. <br />
 I come from a small village in Ha Tinh province (nearly Nga Ba Dong Loc) <br/>
 
-Now I am working as a partime Software Engineer at VAR META.
+Now I am working as a Software Engineer at VAR META.
 
 # Skills
 💪 The order from left to right show the my confidence at that skill from highest to lowest 💪
