@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name is Nguyen The Nhat, 22 years old <br />
 
 Currently I graduated from Ha Noi University of Science and Technology, major in Computer Engineering. <br />
-I come from a small village in Ha Tinh province (nearly Nga Ba Dong Loc) <br/>
+I came from a small village in Ha Tinh province (nearly Nga Ba Dong Loc) <br/>
 
 Now I am working as a Software Engineer.
 
