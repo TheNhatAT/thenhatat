@@ -58,6 +58,13 @@ Now I am working as a Software Engineer with Blockchain knowledge.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-2f858f.svg?style=for-the-badge&logo=nest-dot-js&logoColor=white" style="margin-right:40px;"/>
 </div>
 
+### Blockchain
+<div class="d-flex justify-content-between">
+  <img alt="Ethereum" src="https://img.shields.io/badge/ethereum-%2300f.svg?style=for-the-badge&logo=ethereum&logoColor=white" style="margin-right:40px;"/>
+  <img alt="Cosmos" src ="https://img.shields.io/badge/Cosmos-%2300f.svg?style=for-the-badge&logo=cosmos&logoColor=white" style="margin-right:40px;"/>
+  <img alt="Cardano" src="https://img.shields.io/badge/cardano-2f858f.svg?style=for-the-badge&logo=cardano&logoColor=white" style="margin-right:40px;"/>
+</div>
+
 ### Tools
 <div class="d-flex justify-content-between">
   <img alt="Webstorm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
