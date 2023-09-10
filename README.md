@@ -30,7 +30,7 @@ Now I am working as a Software Engineer with Blockchain knowledge.
 ### Languages
 <div class="d-flex justify-content-between">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF&style=flat-square"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Golang" src="https://img.shields.io/badge/golang-38c4e0.svg?style=for-the-badge&logo=golang&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -72,7 +72,7 @@ Now I am working as a Software Engineer with Blockchain knowledge.
 ### Others
 <div class="d-flex justify-content-between">
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Gitlab CI" src="https://img.shields.io/badge/Gitlab%20ci/cd-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Gitlab CI" src="https://img.shields.io/badge/Gitlab%20ci-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-005571?style=for-the-badge&logo=elasticsearch"/>
 </div>
 
